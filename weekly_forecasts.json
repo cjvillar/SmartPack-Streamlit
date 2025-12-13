@@ -1,0 +1,1394 @@
+{
+    "Channel Islands National Park": {
+        "latitude": 34.0069,
+        "longitude": -119.7785,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T14:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 74. West northwest wind around 5 mph.",
+                "Temp": 74,
+                "Wind": "5",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. Northwest wind 0 to 5 mph.",
+                "Temp": 59,
+                "Wind": "0 to 5",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 70. West northwest wind 0 to 10 mph.",
+                "Temp": 70,
+                "Wind": "0 to 10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. West northwest wind 5 to 10 mph.",
+                "Temp": 59,
+                "Wind": "5 to 10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 72. West northwest wind 5 to 10 mph.",
+                "Temp": 72,
+                "Wind": "5 to 10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 53.",
+                "Temp": 53,
+                "Wind": "10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 77.",
+                "Temp": 77,
+                "Wind": "5 to 10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54.",
+                "Temp": 54,
+                "Wind": "5 to 10",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 77.",
+                "Temp": 77,
+                "Wind": "5",
+                "windDirection": "NNW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 55.",
+                "Temp": 55,
+                "Wind": "5 to 10",
+                "windDirection": "WNW",
+                "Rain": 3
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 73.",
+                "Temp": 73,
+                "Wind": "10 to 15",
+                "windDirection": "NW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54.",
+                "Temp": 54,
+                "Wind": "10 to 15",
+                "windDirection": "NW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 71.",
+                "Temp": 71,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 3
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53.",
+                "Temp": 53,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 5
+            }
+        ],
+        "recommended_gear": [
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\u2614 Waterproof Rainfly"
+        ],
+        "warnings": []
+    },
+    "Death Valley National Park": {
+        "latitude": 36.5323,
+        "longitude": -116.933,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 81, with temperatures falling to around 72 in the afternoon. East northeast wind around 3 mph.",
+                "Temp": 81,
+                "Wind": "3",
+                "windDirection": "ENE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53. North wind around 6 mph.",
+                "Temp": 53,
+                "Wind": "6",
+                "windDirection": "N",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 78, with temperatures falling to around 71 in the afternoon. Northwest wind 2 to 6 mph.",
+                "Temp": 78,
+                "Wind": "2 to 6",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 53. North northeast wind around 3 mph.",
+                "Temp": 53,
+                "Wind": "3",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 78. Northwest wind around 3 mph.",
+                "Temp": 78,
+                "Wind": "3",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 50.",
+                "Temp": 50,
+                "Wind": "5",
+                "windDirection": "N",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 79.",
+                "Temp": 79,
+                "Wind": "2 to 6",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51.",
+                "Temp": 51,
+                "Wind": "3",
+                "windDirection": "NE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 78.",
+                "Temp": 78,
+                "Wind": "3",
+                "windDirection": "SE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51.",
+                "Temp": 51,
+                "Wind": "3",
+                "windDirection": "ENE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 76.",
+                "Temp": 76,
+                "Wind": "3",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 51.",
+                "Temp": 51,
+                "Wind": "3",
+                "windDirection": "NE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 74.",
+                "Temp": 74,
+                "Wind": "3",
+                "windDirection": "N",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 52.",
+                "Temp": 52,
+                "Wind": "3",
+                "windDirection": "NE",
+                "Rain": 3
+            }
+        ],
+        "recommended_gear": [
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\u2614 Waterproof Rainfly"
+        ],
+        "warnings": []
+    },
+    "Joshua Tree National Park": {
+        "latitude": 33.8734,
+        "longitude": -115.901,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 74, with temperatures falling to around 67 in the afternoon. Northeast wind around 5 mph.",
+                "Temp": 74,
+                "Wind": "5",
+                "windDirection": "NE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 55. West wind 0 to 5 mph.",
+                "Temp": 55,
+                "Wind": "0 to 5",
+                "windDirection": "W",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 71, with temperatures falling to around 64 in the afternoon. North northeast wind 0 to 5 mph.",
+                "Temp": 71,
+                "Wind": "0 to 5",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. Northwest wind around 0 mph.",
+                "Temp": 54,
+                "Wind": "0",
+                "windDirection": "",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 70. North northeast wind 0 to 5 mph.",
+                "Temp": 70,
+                "Wind": "0 to 5",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54. North northwest wind around 5 mph.",
+                "Temp": 54,
+                "Wind": "5",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 71. North northwest wind 5 to 10 mph.",
+                "Temp": 71,
+                "Wind": "5 to 10",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54. North northwest wind 5 to 10 mph.",
+                "Temp": 54,
+                "Wind": "5 to 10",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 72. North northeast wind around 5 mph.",
+                "Temp": 72,
+                "Wind": "5",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 55. West southwest wind 0 to 5 mph.",
+                "Temp": 55,
+                "Wind": "0 to 5",
+                "windDirection": "WSW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 71. North wind 0 to 5 mph.",
+                "Temp": 71,
+                "Wind": "0 to 5",
+                "windDirection": "N",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 53. West wind 0 to 5 mph.",
+                "Temp": 53,
+                "Wind": "0 to 5",
+                "windDirection": "W",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 69. East northeast wind 0 to 5 mph.",
+                "Temp": 69,
+                "Wind": "0 to 5",
+                "windDirection": "ENE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. West southwest wind 0 to 5 mph.",
+                "Temp": 54,
+                "Wind": "0 to 5",
+                "windDirection": "WSW",
+                "Rain": 0
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag"
+        ],
+        "warnings": []
+    },
+    "Lassen Volcanic National Park": {
+        "latitude": 40.4977,
+        "longitude": -121.4208,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 55, with temperatures falling to around 47 in the afternoon. North northeast wind around 2 mph.",
+                "Temp": 55,
+                "Wind": "2",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 40. South southeast wind around 5 mph.",
+                "Temp": 40,
+                "Wind": "5",
+                "windDirection": "SSE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 52, with temperatures falling to around 44 in the afternoon. South wind around 3 mph.",
+                "Temp": 52,
+                "Wind": "3",
+                "windDirection": "S",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 36. South wind 2 to 6 mph.",
+                "Temp": 36,
+                "Wind": "2 to 6",
+                "windDirection": "S",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 48. South southwest wind 2 to 6 mph.",
+                "Temp": 48,
+                "Wind": "2 to 6",
+                "windDirection": "SSW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 37.",
+                "Temp": 37,
+                "Wind": "2 to 6",
+                "windDirection": "SSW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Mostly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 4pm. Mostly sunny, with a high near 49.",
+                "Temp": 49,
+                "Wind": "6",
+                "windDirection": "SW",
+                "Rain": 47
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 39.",
+                "Temp": 39,
+                "Wind": "3 to 7",
+                "windDirection": "SW",
+                "Rain": 55
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Mostly cloudy, with a high near 42.",
+                "Temp": 42,
+                "Wind": "7 to 10",
+                "windDirection": "SW",
+                "Rain": 91
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 34.",
+                "Temp": 34,
+                "Wind": "10 to 16",
+                "windDirection": "SW",
+                "Rain": 91
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Rain And Snow Showers Likely",
+                "detailedForecast": "Rain showers likely before 10am, then rain and snow showers likely. Mostly cloudy, with a high near 37.",
+                "Temp": 37,
+                "Wind": "9 to 15",
+                "windDirection": "SW",
+                "Rain": 71
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Rain And Snow Showers Likely",
+                "detailedForecast": "Rain and snow showers likely. Mostly cloudy, with a low around 30. New snow accumulation of less than half an inch possible.",
+                "Temp": 30,
+                "Wind": "12",
+                "windDirection": "SW",
+                "Rain": 63
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Rain And Snow Showers Likely",
+                "detailedForecast": "Rain and snow showers likely. Mostly cloudy, with a high near 38. New snow accumulation of less than half an inch possible.",
+                "Temp": 38,
+                "Wind": "13",
+                "windDirection": "SSW",
+                "Rain": 66
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Rain And Snow Showers Likely",
+                "detailedForecast": "Rain and snow showers likely. Mostly cloudy, with a low around 34.",
+                "Temp": 34,
+                "Wind": "10 to 15",
+                "windDirection": "SSW",
+                "Rain": 66
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\ud83e\udde4 Insulated Gloves & Beanie"
+        ],
+        "warnings": [
+            "Freezing conditions expected! Bring extra fuel.",
+            "Heavy rain forecast. Ensure tent footprint is tucked under tent."
+        ]
+    },
+    "Pinnacles National Park": {
+        "latitude": 36.4907,
+        "longitude": -121.182,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 76, with temperatures falling to around 66 in the afternoon. Southwest wind around 6 mph.",
+                "Temp": 76,
+                "Wind": "6",
+                "windDirection": "SW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 45. East wind 2 to 6 mph.",
+                "Temp": 45,
+                "Wind": "2 to 6",
+                "windDirection": "E",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 76, with temperatures falling to around 68 in the afternoon. South southeast wind 2 to 9 mph.",
+                "Temp": 76,
+                "Wind": "2 to 9",
+                "windDirection": "SSE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 43. Southeast wind around 5 mph.",
+                "Temp": 43,
+                "Wind": "5",
+                "windDirection": "SE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 75. South southeast wind around 5 mph.",
+                "Temp": 75,
+                "Wind": "5",
+                "windDirection": "SSE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44.",
+                "Temp": 44,
+                "Wind": "2 to 6",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 75.",
+                "Temp": 75,
+                "Wind": "2 to 9",
+                "windDirection": "NE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 46.",
+                "Temp": 46,
+                "Wind": "2 to 9",
+                "windDirection": "NNE",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Mostly Sunny then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 4pm. Mostly sunny, with a high near 74.",
+                "Temp": 74,
+                "Wind": "2 to 7",
+                "windDirection": "N",
+                "Rain": 16
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 10pm. Mostly cloudy, with a low around 50.",
+                "Temp": 50,
+                "Wind": "6",
+                "windDirection": "NW",
+                "Rain": 16
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 70.",
+                "Temp": 70,
+                "Wind": "3 to 8",
+                "windDirection": "NW",
+                "Rain": 12
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 44.",
+                "Temp": 44,
+                "Wind": "3 to 7",
+                "windDirection": "NNW",
+                "Rain": 9
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Patchy Fog then Slight Chance Light Rain",
+                "detailedForecast": "Patchy fog between 7am and 8am, then a slight chance of rain. Mostly sunny, with a high near 69.",
+                "Temp": 69,
+                "Wind": "2 to 6",
+                "windDirection": "NNW",
+                "Rain": 15
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 5am, then patchy fog and a slight chance of rain. Partly cloudy, with a low around 44.",
+                "Temp": 44,
+                "Wind": "2 to 6",
+                "windDirection": "NNW",
+                "Rain": 19
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde5 Puffy Down Jacket",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+        ],
+        "warnings": []
+    },
+    "Redwood National Park": {
+        "latitude": 41.2132,
+        "longitude": -124.0046,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog after 4pm. Mostly sunny. High near 62, with temperatures falling to around 55 in the afternoon. North northeast wind around 3 mph.",
+                "Temp": 62,
+                "Wind": "3",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Patchy Fog then Partly Cloudy",
+                "detailedForecast": "Patchy fog before 7pm. Partly cloudy, with a low around 44. East wind 2 to 10 mph.",
+                "Temp": 44,
+                "Wind": "2 to 10",
+                "windDirection": "E",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 61, with temperatures falling to around 52 in the afternoon. North wind 1 to 7 mph.",
+                "Temp": 61,
+                "Wind": "1 to 7",
+                "windDirection": "N",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 45. East southeast wind around 3 mph.",
+                "Temp": 45,
+                "Wind": "3",
+                "windDirection": "ESE",
+                "Rain": 2
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 58. North wind around 3 mph.",
+                "Temp": 58,
+                "Wind": "3",
+                "windDirection": "N",
+                "Rain": 3
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4am. Mostly cloudy, with a low around 51. East southeast wind around 5 mph. Chance of precipitation is 40%.",
+                "Temp": 51,
+                "Wind": "5",
+                "windDirection": "ESE",
+                "Rain": 41
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a high near 61. New rainfall amounts between three quarters and one inch possible.",
+                "Temp": 61,
+                "Wind": "7",
+                "windDirection": "SSE",
+                "Rain": 91
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 55.",
+                "Temp": 55,
+                "Wind": "6",
+                "windDirection": "SSE",
+                "Rain": 91
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 59.",
+                "Temp": 59,
+                "Wind": "5 to 8",
+                "windDirection": "S",
+                "Rain": 93
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 48.",
+                "Temp": 48,
+                "Wind": "5 to 8",
+                "windDirection": "SW",
+                "Rain": 93
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy, with a high near 53.",
+                "Temp": 53,
+                "Wind": "6",
+                "windDirection": "SSW",
+                "Rain": 72
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 48.",
+                "Temp": 48,
+                "Wind": "7",
+                "windDirection": "S",
+                "Rain": 84
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 55.",
+                "Temp": 55,
+                "Wind": "7 to 10",
+                "windDirection": "S",
+                "Rain": 89
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 50.",
+                "Temp": 50,
+                "Wind": "9",
+                "windDirection": "S",
+                "Rain": 89
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde5 Puffy Down Jacket",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+        ],
+        "warnings": [
+            "Heavy rain forecast. Ensure tent footprint is tucked under tent."
+        ]
+    },
+    "Sequoia National Park": {
+        "latitude": 36.4864,
+        "longitude": -118.5658,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 47, with temperatures falling to around 43 in the afternoon. North northwest wind around 5 mph.",
+                "Temp": 47,
+                "Wind": "5",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear. Low around 38, with temperatures rising to around 40 overnight. East wind 5 to 10 mph.",
+                "Temp": 38,
+                "Wind": "5 to 10",
+                "windDirection": "E",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 48, with temperatures falling to around 44 in the afternoon. South southeast wind 5 to 10 mph.",
+                "Temp": 48,
+                "Wind": "5 to 10",
+                "windDirection": "SSE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 38. North northeast wind 5 to 10 mph.",
+                "Temp": 38,
+                "Wind": "5 to 10",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 47. Northwest wind 5 to 10 mph.",
+                "Temp": 47,
+                "Wind": "5 to 10",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 32. North wind 5 to 10 mph.",
+                "Temp": 32,
+                "Wind": "5 to 10",
+                "windDirection": "N",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 43. North northwest wind 5 to 10 mph.",
+                "Temp": 43,
+                "Wind": "5 to 10",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 36. North northeast wind 5 to 10 mph.",
+                "Temp": 36,
+                "Wind": "5 to 10",
+                "windDirection": "NNE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 43. Northwest wind around 10 mph.",
+                "Temp": 43,
+                "Wind": "10",
+                "windDirection": "NW",
+                "Rain": 7
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 34. Northwest wind 10 to 20 mph.",
+                "Temp": 34,
+                "Wind": "10 to 20",
+                "windDirection": "NW",
+                "Rain": 8
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 37. West northwest wind 10 to 20 mph.",
+                "Temp": 37,
+                "Wind": "10 to 20",
+                "windDirection": "WNW",
+                "Rain": 7
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 32. Northwest wind 10 to 15 mph.",
+                "Temp": 32,
+                "Wind": "10 to 15",
+                "windDirection": "NW",
+                "Rain": 4
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 38. West northwest wind 10 to 15 mph.",
+                "Temp": 38,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 8
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 33. West northwest wind 10 to 15 mph.",
+                "Temp": 33,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 10
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\ud83e\udde5 Puffy Down Jacket",
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag"
+        ],
+        "warnings": []
+    },
+    "Kings Canyon National Park": {
+        "latitude": 36.8879,
+        "longitude": -118.5551,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 48, with temperatures falling to around 41 in the afternoon. West northwest wind 0 to 5 mph.",
+                "Temp": 48,
+                "Wind": "0 to 5",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 34. Wind chill values as low as 30. Northwest wind around 5 mph.",
+                "Temp": 34,
+                "Wind": "5",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 49, with temperatures falling to around 42 in the afternoon. Wind chill values as low as 30. West northwest wind 0 to 5 mph.",
+                "Temp": 49,
+                "Wind": "0 to 5",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 34. Wind chill values as low as 30. Northwest wind 0 to 5 mph.",
+                "Temp": 34,
+                "Wind": "0 to 5",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 48. West northwest wind 0 to 5 mph.",
+                "Temp": 48,
+                "Wind": "0 to 5",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 30. Northwest wind 0 to 5 mph.",
+                "Temp": 30,
+                "Wind": "0 to 5",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 44. West northwest wind around 5 mph.",
+                "Temp": 44,
+                "Wind": "5",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 34. West northwest wind 5 to 10 mph.",
+                "Temp": 34,
+                "Wind": "5 to 10",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 44. West wind around 10 mph.",
+                "Temp": 44,
+                "Wind": "10",
+                "windDirection": "W",
+                "Rain": 8
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 31. West wind 10 to 20 mph.",
+                "Temp": 31,
+                "Wind": "10 to 20",
+                "windDirection": "W",
+                "Rain": 11
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 37. West wind 10 to 20 mph.",
+                "Temp": 37,
+                "Wind": "10 to 20",
+                "windDirection": "W",
+                "Rain": 10
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 29. West wind 10 to 15 mph.",
+                "Temp": 29,
+                "Wind": "10 to 15",
+                "windDirection": "W",
+                "Rain": 5
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 40. West southwest wind 10 to 15 mph.",
+                "Temp": 40,
+                "Wind": "10 to 15",
+                "windDirection": "WSW",
+                "Rain": 8
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 31. West southwest wind 10 to 15 mph.",
+                "Temp": 31,
+                "Wind": "10 to 15",
+                "windDirection": "WSW",
+                "Rain": 12
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\ud83e\udde4 Insulated Gloves & Beanie"
+        ],
+        "warnings": [
+            "Freezing conditions expected! Bring extra fuel."
+        ]
+    },
+    "Yosemite National Park": {
+        "latitude": 37.8651,
+        "longitude": -119.5383,
+        "forecast": [
+            {
+                "startTime": "2025-12-12T15:00:00-08:00",
+                "Time of Day": "This Afternoon",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 49 in the afternoon. South wind around 0 mph.",
+                "Temp": 60,
+                "Wind": "0",
+                "windDirection": "",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-12T18:00:00-08:00",
+                "Time of Day": "Tonight",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 39. East southeast wind around 5 mph.",
+                "Temp": 39,
+                "Wind": "5",
+                "windDirection": "ESE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T06:00:00-08:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 61, with temperatures falling to around 51 in the afternoon. South southwest wind 0 to 5 mph.",
+                "Temp": 61,
+                "Wind": "0 to 5",
+                "windDirection": "SSW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-13T18:00:00-08:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 38. East southeast wind around 5 mph.",
+                "Temp": 38,
+                "Wind": "5",
+                "windDirection": "ESE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T06:00:00-08:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 60. North northwest wind 0 to 5 mph.",
+                "Temp": 60,
+                "Wind": "0 to 5",
+                "windDirection": "NNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-14T18:00:00-08:00",
+                "Time of Day": "Sunday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 32. Northeast wind 0 to 5 mph.",
+                "Temp": 32,
+                "Wind": "0 to 5",
+                "windDirection": "NE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2025-12-15T06:00:00-08:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 51. Northwest wind 0 to 5 mph.",
+                "Temp": 51,
+                "Wind": "0 to 5",
+                "windDirection": "NW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2025-12-15T18:00:00-08:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 35. Northeast wind 0 to 5 mph.",
+                "Temp": 35,
+                "Wind": "0 to 5",
+                "windDirection": "NE",
+                "Rain": 3
+            },
+            {
+                "startTime": "2025-12-16T06:00:00-08:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Partly Sunny then Chance Rain And Snow",
+                "detailedForecast": "A chance of rain and snow after 4pm. Partly sunny, with a high near 48. Southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible.",
+                "Temp": 48,
+                "Wind": "5",
+                "windDirection": "SW",
+                "Rain": 33
+            },
+            {
+                "startTime": "2025-12-16T18:00:00-08:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Chance Rain And Snow",
+                "detailedForecast": "A chance of rain and snow. Mostly cloudy, with a low around 32. Southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible.",
+                "Temp": 32,
+                "Wind": "5 to 10",
+                "windDirection": "SW",
+                "Rain": 39
+            },
+            {
+                "startTime": "2025-12-17T06:00:00-08:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Chance Rain And Snow",
+                "detailedForecast": "A chance of rain and snow. Partly sunny, with a high near 40. West southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.",
+                "Temp": 40,
+                "Wind": "5 to 10",
+                "windDirection": "WSW",
+                "Rain": 35
+            },
+            {
+                "startTime": "2025-12-17T18:00:00-08:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow. Partly cloudy, with a low around 30. Southwest wind around 5 mph. Chance of precipitation is 20%.",
+                "Temp": 30,
+                "Wind": "5",
+                "windDirection": "SW",
+                "Rain": 20
+            },
+            {
+                "startTime": "2025-12-18T06:00:00-08:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow. Partly sunny, with a high near 42. Southwest wind 5 to 10 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible.",
+                "Temp": 42,
+                "Wind": "5 to 10",
+                "windDirection": "SW",
+                "Rain": 23
+            },
+            {
+                "startTime": "2025-12-18T18:00:00-08:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow. Partly cloudy, with a low around 31. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. New rainfall amounts between a quarter and half of an inch possible.",
+                "Temp": 31,
+                "Wind": "5 to 10",
+                "windDirection": "SW",
+                "Rain": 24
+            }
+        ],
+        "recommended_gear": [
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udd7e Waterproof Hiking Boots",
+            "\u2614 Waterproof Rainfly",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\ud83e\udde4 Insulated Gloves & Beanie"
+        ],
+        "warnings": [
+            "Freezing conditions expected! Bring extra fuel."
+        ]
+    }
+}

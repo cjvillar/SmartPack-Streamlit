@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Channel Islands National Park",
+    "latitude": 34.0069,
+    "longitude": -119.7785
+  },
+  {
+    "name": "Death Valley National Park",
+    "latitude": 36.5323,
+    "longitude": -116.9330
+  },
+  {
+    "name": "Joshua Tree National Park",
+    "latitude": 33.8734,
+    "longitude": -115.9010
+  },
+  {
+    "name": "Lassen Volcanic National Park",
+    "latitude": 40.4977,
+    "longitude": -121.4208
+  },
+  {
+    "name": "Pinnacles National Park",
+    "latitude": 36.4907,
+    "longitude": -121.1820
+  },
+  {
+    "name": "Redwood National Park",
+    "latitude": 41.2132,
+    "longitude": -124.0046
+  },
+  {
+    "name": "Sequoia National Park",
+    "latitude": 36.4864,
+    "longitude": -118.5658
+  },
+  {
+    "name": "Kings Canyon National Park",
+    "latitude": 36.8879,
+    "longitude": -118.5551
+  },
+  {
+    "name": "Yosemite National Park",
+    "latitude": 37.8651,
+    "longitude": -119.5383
+  }
+]
