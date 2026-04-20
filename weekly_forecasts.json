@@ -4,304 +4,307 @@
         "longitude": -119.7785,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 50. Northwest wind around 15 mph.",
-                "Temp": 50,
-                "Wind": "15",
-                "windDirection": "NW",
-                "Rain": 6
+                "detailedForecast": "Mostly clear, with a low around 48. West wind 5 to 10 mph.",
+                "Temp": 48,
+                "Wind": "5 to 10",
+                "windDirection": "W",
+                "Rain": 1
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. West northwest wind 15 to 30 mph, with gusts as high as 35 mph.",
-                "Temp": 68,
-                "Wind": "15 to 30",
-                "windDirection": "WNW",
-                "Rain": 6
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 69. West southwest wind 5 to 10 mph.",
+                "Temp": 69,
+                "Wind": "5 to 10",
+                "windDirection": "WSW",
+                "Rain": 1
             },
             {
-                "startTime": "2026-04-13T18:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
                 "Time of Day": "Monday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. Northwest wind 15 to 30 mph, with gusts as high as 35 mph.",
+                "shortForecast": "Mostly Cloudy then Rain",
+                "detailedForecast": "Rain after 5am. Mostly cloudy, with a low around 51. South wind 5 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible.",
                 "Temp": 51,
-                "Wind": "15 to 30",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 70. Northwest wind 10 to 20 mph, with gusts as high as 30 mph.",
-                "Temp": 70,
-                "Wind": "10 to 20",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Northwest wind 10 to 25 mph.",
-                "Temp": 52,
-                "Wind": "10 to 25",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 71.",
-                "Temp": 71,
                 "Wind": "5 to 15",
+                "windDirection": "S",
+                "Rain": 100
+            },
+            {
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 70. Southwest wind 10 to 15 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+                "Temp": 70,
+                "Wind": "10 to 15",
+                "windDirection": "SW",
+                "Rain": 100
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Slight Chance Light Rain then Partly Cloudy",
+                "detailedForecast": "A slight chance of rain before 11pm. Partly cloudy, with a low around 51. West northwest wind 10 to 20 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.",
+                "Temp": 51,
+                "Wind": "10 to 20",
+                "windDirection": "WNW",
+                "Rain": 17
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 69.",
+                "Temp": 69,
+                "Wind": "20 to 25",
+                "windDirection": "WNW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 51.",
+                "Temp": 51,
+                "Wind": "20 to 25",
+                "windDirection": "WNW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 71.",
+                "Temp": 71,
+                "Wind": "15 to 20",
                 "windDirection": "NW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 52.",
                 "Temp": 52,
                 "Wind": "15 to 20",
+                "windDirection": "NW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 69.",
+                "Temp": 69,
+                "Wind": "15",
                 "windDirection": "WNW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 71.",
-                "Temp": 71,
-                "Wind": "15 to 25",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 52.",
-                "Temp": 52,
-                "Wind": "10 to 25",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 73.",
-                "Temp": 73,
-                "Wind": "5 to 15",
-                "windDirection": "N",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T18:00:00-07:00",
+                "startTime": "2026-04-24T18:00:00-07:00",
                 "Time of Day": "Friday Night",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53.",
-                "Temp": 53,
-                "Wind": "10 to 15",
-                "windDirection": "NW",
-                "Rain": 0
+                "detailedForecast": "Partly cloudy, with a low around 51.",
+                "Temp": 51,
+                "Wind": "15",
+                "windDirection": "WNW",
+                "Rain": 1
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 75.",
-                "Temp": 75,
-                "Wind": "5 to 10",
-                "windDirection": "NW",
-                "Rain": 0
+                "detailedForecast": "Mostly sunny, with a high near 68.",
+                "Temp": 68,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 4
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
+                "startTime": "2026-04-25T18:00:00-07:00",
                 "Time of Day": "Saturday Night",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 54.",
-                "Temp": 54,
-                "Wind": "10 to 15",
-                "windDirection": "WNW",
-                "Rain": 0
+                "detailedForecast": "Partly cloudy, with a low around 51.",
+                "Temp": 51,
+                "Wind": "10",
+                "windDirection": "W",
+                "Rain": 5
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
+                "startTime": "2026-04-26T06:00:00-07:00",
                 "Time of Day": "Sunday",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 73.",
-                "Temp": 73,
+                "detailedForecast": "Mostly sunny, with a high near 68.",
+                "Temp": 68,
                 "Wind": "10 to 15",
-                "windDirection": "WNW",
-                "Rain": 2
+                "windDirection": "W",
+                "Rain": 4
             }
         ],
         "recommended_gear": [
+            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
             "\ud83e\udd7e Waterproof Hiking Boots",
-            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83e\udde5 Puffy Down Jacket",
             "\u2614 Waterproof Rainfly",
-            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag"
+            "\ud83c\udf92 Pack Rain Cover"
         ],
-        "warnings": []
+        "warnings": [
+            "Heavy rain forecast. Ensure tent footprint is tucked under tent."
+        ]
     },
     "Death Valley National Park": {
         "latitude": 36.5323,
         "longitude": -116.933,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear. Low around 53, with temperatures rising to around 56 overnight. East northeast wind around 5 mph.",
-                "Temp": 53,
-                "Wind": "5",
-                "windDirection": "ENE",
-                "Rain": 2
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy. Low around 63, with temperatures rising to around 65 overnight. Northeast wind around 2 mph.",
+                "Temp": 63,
+                "Wind": "2",
+                "windDirection": "NE",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers between 1pm and 2pm, then a slight chance of showers and thunderstorms between 2pm and 4pm, then a chance of showers and thunderstorms. Mostly sunny. High near 78, with temperatures falling to around 76 in the afternoon. South southeast wind 2 to 6 mph. Chance of precipitation is 30%.",
-                "Temp": 78,
-                "Wind": "2 to 6",
-                "windDirection": "SSE",
-                "Rain": 26
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 98. Southeast wind 2 to 17 mph.",
+                "Temp": 98,
+                "Wind": "2 to 17",
+                "windDirection": "SE",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-13T18:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
                 "Time of Day": "Monday Night",
-                "shortForecast": "Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A chance of rain showers before 10pm. Partly cloudy. Low around 55, with temperatures rising to around 57 overnight. North wind 2 to 6 mph. Chance of precipitation is 30%.",
-                "Temp": 55,
-                "Wind": "2 to 6",
-                "windDirection": "N",
-                "Rain": 25
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 65. Southeast wind 5 to 16 mph, with gusts as high as 23 mph.",
+                "Temp": 65,
+                "Wind": "5 to 16",
+                "windDirection": "SE",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-14T06:00:00-07:00",
+                "startTime": "2026-04-21T06:00:00-07:00",
                 "Time of Day": "Tuesday",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 86. South southeast wind 2 to 8 mph.",
-                "Temp": 86,
-                "Wind": "2 to 8",
+                "detailedForecast": "Sunny, with a high near 93. South southeast wind 6 to 24 mph, with gusts as high as 35 mph.",
+                "Temp": 93,
+                "Wind": "6 to 24",
                 "windDirection": "SSE",
-                "Rain": 0
+                "Rain": 6
             },
             {
-                "startTime": "2026-04-14T18:00:00-07:00",
+                "startTime": "2026-04-21T18:00:00-07:00",
                 "Time of Day": "Tuesday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 57. Southeast wind 2 to 8 mph.",
-                "Temp": 57,
-                "Wind": "2 to 8",
-                "windDirection": "SE",
-                "Rain": 0
+                "shortForecast": "Patchy Blowing Dust then Mostly Clear",
+                "detailedForecast": "Patchy blowing dust before 8pm. Mostly clear, with a low around 59. South wind 5 to 23 mph, with gusts as high as 33 mph.",
+                "Temp": 59,
+                "Wind": "5 to 23",
+                "windDirection": "S",
+                "Rain": 6
             },
             {
-                "startTime": "2026-04-15T06:00:00-07:00",
+                "startTime": "2026-04-22T06:00:00-07:00",
                 "Time of Day": "Wednesday",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 90.",
-                "Temp": 90,
-                "Wind": "2 to 12",
-                "windDirection": "SE",
-                "Rain": 0
+                "detailedForecast": "Sunny, with a high near 85.",
+                "Temp": 85,
+                "Wind": "3 to 7",
+                "windDirection": "S",
+                "Rain": 1
             },
             {
-                "startTime": "2026-04-15T18:00:00-07:00",
+                "startTime": "2026-04-22T18:00:00-07:00",
                 "Time of Day": "Wednesday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 61.",
-                "Temp": 61,
-                "Wind": "2 to 12",
-                "windDirection": "SSE",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59.",
+                "Temp": 59,
+                "Wind": "7",
+                "windDirection": "ENE",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-16T06:00:00-07:00",
+                "startTime": "2026-04-23T06:00:00-07:00",
                 "Time of Day": "Thursday",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 88.",
-                "Temp": 88,
-                "Wind": "2 to 12",
-                "windDirection": "E",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 54.",
-                "Temp": 54,
-                "Wind": "12 to 17",
-                "windDirection": "N",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82.",
-                "Temp": 82,
-                "Wind": "7 to 12",
+                "detailedForecast": "Sunny, with a high near 89.",
+                "Temp": 89,
+                "Wind": "8",
                 "windDirection": "NW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-17T18:00:00-07:00",
-                "Time of Day": "Friday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52.",
-                "Temp": 52,
-                "Wind": "7",
-                "windDirection": "NNW",
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 63.",
+                "Temp": 63,
+                "Wind": "8",
+                "windDirection": "ESE",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 91.",
+                "Temp": 91,
+                "Wind": "6 to 9",
+                "windDirection": "SE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-24T18:00:00-07:00",
+                "Time of Day": "Friday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 62.",
+                "Temp": 62,
+                "Wind": "6 to 9",
+                "windDirection": "SE",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 90.",
+                "Temp": 90,
+                "Wind": "5 to 10",
+                "windDirection": "SSE",
+                "Rain": 5
+            },
+            {
+                "startTime": "2026-04-25T18:00:00-07:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 61.",
+                "Temp": 61,
+                "Wind": "5 to 10",
+                "windDirection": "SE",
+                "Rain": 7
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
+                "Time of Day": "Sunday",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 88.",
                 "Temp": 88,
-                "Wind": "3 to 8",
-                "windDirection": "ESE",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-18T18:00:00-07:00",
-                "Time of Day": "Saturday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 58.",
-                "Temp": 58,
-                "Wind": "3 to 8",
-                "windDirection": "ESE",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-19T06:00:00-07:00",
-                "Time of Day": "Sunday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 94.",
-                "Temp": 94,
-                "Wind": "3 to 12",
+                "Wind": "5 to 10",
                 "windDirection": "SE",
-                "Rain": 1
+                "Rain": 7
             }
         ],
         "recommended_gear": [
-            "\ud83e\udd7e Waterproof Hiking Boots",
-            "\ud83c\udf92 Pack Rain Cover",
             "\u2614 Waterproof Rainfly",
-            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag"
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
+            "\ud83e\udd7e Waterproof Hiking Boots"
         ],
         "warnings": []
     },
@@ -310,151 +313,150 @@
         "longitude": -115.901,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear. Low around 46, with temperatures rising to around 48 overnight. West southwest wind around 5 mph.",
-                "Temp": 46,
-                "Wind": "5",
-                "windDirection": "WSW",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear. Low around 60, with temperatures rising to around 62 overnight. Southwest wind around 0 mph.",
+                "Temp": 60,
+                "Wind": "0",
+                "windDirection": "",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 2pm and 3pm. Sunny. High near 62, with temperatures falling to around 58 in the afternoon. West southwest wind 5 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 20%.",
-                "Temp": 62,
-                "Wind": "5 to 20",
-                "windDirection": "WSW",
-                "Rain": 16
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 80. South wind 0 to 15 mph, with gusts as high as 20 mph.",
+                "Temp": 80,
+                "Wind": "0 to 15",
+                "windDirection": "S",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-13T18:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
                 "Time of Day": "Monday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 46. West wind 5 to 15 mph, with gusts as high as 30 mph.",
-                "Temp": 46,
-                "Wind": "5 to 15",
-                "windDirection": "W",
-                "Rain": 6
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 57. Southwest wind 0 to 15 mph, with gusts as high as 20 mph.",
+                "Temp": 57,
+                "Wind": "0 to 15",
+                "windDirection": "SW",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-14T06:00:00-07:00",
+                "startTime": "2026-04-21T06:00:00-07:00",
                 "Time of Day": "Tuesday",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 70. West northwest wind 5 to 10 mph.",
-                "Temp": 70,
+                "detailedForecast": "Sunny, with a high near 78. Southwest wind 0 to 20 mph, with gusts as high as 30 mph.",
+                "Temp": 78,
+                "Wind": "0 to 20",
+                "windDirection": "SW",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 50. West wind 5 to 20 mph, with gusts as high as 30 mph.",
+                "Temp": 50,
+                "Wind": "5 to 20",
+                "windDirection": "W",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 72. West northwest wind 5 to 10 mph.",
+                "Temp": 72,
                 "Wind": "5 to 10",
                 "windDirection": "WNW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 52. West wind 0 to 5 mph.",
-                "Temp": 52,
-                "Wind": "0 to 5",
-                "windDirection": "W",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 74. Southwest wind 0 to 15 mph, with gusts as high as 20 mph.",
-                "Temp": 74,
-                "Wind": "0 to 15",
-                "windDirection": "SW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
+                "startTime": "2026-04-22T18:00:00-07:00",
                 "Time of Day": "Wednesday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 55. West southwest wind 0 to 15 mph, with gusts as high as 20 mph.",
-                "Temp": 55,
-                "Wind": "0 to 15",
-                "windDirection": "WSW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 74. West southwest wind 0 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 74,
-                "Wind": "0 to 15",
-                "windDirection": "WSW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West northwest wind 10 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 52,
-                "Wind": "10 to 15",
+                "detailedForecast": "Mostly clear, with a low around 51. West northwest wind 5 to 10 mph.",
+                "Temp": 51,
+                "Wind": "5 to 10",
                 "windDirection": "WNW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. North northwest wind 15 to 20 mph, with gusts as high as 30 mph.",
-                "Temp": 68,
-                "Wind": "15 to 20",
-                "windDirection": "NNW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T18:00:00-07:00",
-                "Time of Day": "Friday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. North northwest wind 5 to 15 mph, with gusts as high as 20 mph.",
-                "Temp": 51,
-                "Wind": "5 to 15",
-                "windDirection": "NNW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-18T06:00:00-07:00",
-                "Time of Day": "Saturday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 75. Northeast wind 5 to 10 mph.",
+                "detailedForecast": "Sunny, with a high near 75. West northwest wind 5 to 10 mph.",
                 "Temp": 75,
                 "Wind": "5 to 10",
-                "windDirection": "NE",
+                "windDirection": "WNW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
-                "Time of Day": "Saturday Night",
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 55. West wind 5 to 10 mph.",
-                "Temp": 55,
+                "detailedForecast": "Partly cloudy, with a low around 56. West wind 5 to 10 mph.",
+                "Temp": 56,
                 "Wind": "5 to 10",
                 "windDirection": "W",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
-                "Time of Day": "Sunday",
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 79. Southwest wind 5 to 15 mph, with gusts as high as 20 mph.",
-                "Temp": 79,
+                "detailedForecast": "Mostly sunny, with a high near 76. West wind 5 to 15 mph, with gusts as high as 20 mph.",
+                "Temp": 76,
                 "Wind": "5 to 15",
-                "windDirection": "SW",
+                "windDirection": "W",
                 "Rain": 0
+            },
+            {
+                "startTime": "2026-04-24T18:00:00-07:00",
+                "Time of Day": "Friday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. West wind 5 to 15 mph, with gusts as high as 20 mph.",
+                "Temp": 54,
+                "Wind": "5 to 15",
+                "windDirection": "W",
+                "Rain": 0
+            },
+            {
+                "startTime": "2026-04-25T06:00:00-07:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 73. West wind 5 to 15 mph, with gusts as high as 25 mph.",
+                "Temp": 73,
+                "Wind": "5 to 15",
+                "windDirection": "W",
+                "Rain": 1
+            },
+            {
+                "startTime": "2026-04-25T18:00:00-07:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 51. West wind 5 to 15 mph, with gusts as high as 25 mph.",
+                "Temp": 51,
+                "Wind": "5 to 15",
+                "windDirection": "W",
+                "Rain": 3
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 70. West southwest wind 5 to 15 mph, with gusts as high as 25 mph.",
+                "Temp": 70,
+                "Wind": "5 to 15",
+                "windDirection": "WSW",
+                "Rain": 2
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
-            "\ud83e\udde5 Puffy Down Jacket",
             "\u2614 Waterproof Rainfly",
+            "\ud83c\udf92 Pack Rain Cover",
+            "\ud83c\udfde\ufe0f 40\u00b0F+ Summer Sleeping Bag",
             "\ud83e\udd7e Waterproof Hiking Boots"
         ],
         "warnings": []
@@ -464,153 +466,153 @@
         "longitude": -121.4208,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 21, with temperatures rising to around 23 overnight. Wind around 0 mph.",
-                "Temp": 21,
-                "Wind": "0",
-                "windDirection": "",
-                "Rain": 5
+                "detailedForecast": "Partly cloudy. Low around 34, with temperatures rising to around 36 overnight. South wind around 7 mph.",
+                "Temp": 34,
+                "Wind": "7",
+                "windDirection": "S",
+                "Rain": 2
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 38. Northwest wind 0 to 3 mph.",
-                "Temp": 38,
-                "Wind": "0 to 3",
-                "windDirection": "NW",
-                "Rain": 11
+                "shortForecast": "Mostly Sunny then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow between 1pm and 2pm, then a chance of rain and snow. Mostly sunny. High near 44, with temperatures falling to around 39 in the afternoon. South wind 8 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible.",
+                "Temp": 44,
+                "Wind": "8 to 15",
+                "windDirection": "S",
+                "Rain": 42
             },
             {
-                "startTime": "2026-04-13T18:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
                 "Time of Day": "Monday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 23. West wind around 2 mph.",
-                "Temp": 23,
-                "Wind": "2",
-                "windDirection": "W",
-                "Rain": 6
+                "shortForecast": "Rain And Snow",
+                "detailedForecast": "Rain and snow. Cloudy, with a low around 30. South wind 3 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 5 to 9 inches possible.",
+                "Temp": 30,
+                "Wind": "3 to 10",
+                "windDirection": "S",
+                "Rain": 95
             },
             {
-                "startTime": "2026-04-14T06:00:00-07:00",
+                "startTime": "2026-04-21T06:00:00-07:00",
                 "Time of Day": "Tuesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. South southwest wind 0 to 6 mph, with gusts as high as 18 mph.",
-                "Temp": 42,
-                "Wind": "0 to 6",
-                "windDirection": "SSW",
+                "shortForecast": "Heavy Snow then Snow Showers",
+                "detailedForecast": "Snow before 11am, then snow showers and a slight chance of thunderstorms between 11am and 5pm, then snow. Cloudy, with a high near 36. South wind around 6 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible.",
+                "Temp": 36,
+                "Wind": "6",
+                "windDirection": "S",
+                "Rain": 98
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow. Cloudy, with a low around 27. Southwest wind around 6 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible.",
+                "Temp": 27,
+                "Wind": "6",
+                "windDirection": "SW",
+                "Rain": 97
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow. Mostly cloudy, with a high near 34. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible.",
+                "Temp": 34,
+                "Wind": "7",
+                "windDirection": "WSW",
+                "Rain": 76
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A chance of snow before 11pm. Mostly cloudy, with a low around 23. New snow accumulation of less than one inch possible.",
+                "Temp": 23,
+                "Wind": "1 to 6",
+                "windDirection": "SW",
+                "Rain": 29
+            },
+            {
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 45.",
+                "Temp": 45,
+                "Wind": "1 to 8",
+                "windDirection": "NNW",
+                "Rain": 10
+            },
+            {
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 27.",
+                "Temp": 27,
+                "Wind": "8",
+                "windDirection": "NE",
+                "Rain": 10
+            },
+            {
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 50.",
+                "Temp": 50,
+                "Wind": "7",
+                "windDirection": "NE",
                 "Rain": 9
             },
             {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 11pm. Mostly cloudy, with a low around 30. Southwest wind around 6 mph, with gusts as high as 18 mph. Chance of precipitation is 20%.",
-                "Temp": 30,
-                "Wind": "6",
-                "windDirection": "SW",
-                "Rain": 16
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Mostly cloudy, with a high near 37. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible.",
-                "Temp": 37,
-                "Wind": "6 to 12",
-                "windDirection": "SW",
-                "Rain": 83
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Mostly cloudy, with a low around 19. New snow accumulation of 3 to 5 inches possible.",
-                "Temp": 19,
-                "Wind": "6 to 13",
-                "windDirection": "W",
-                "Rain": 83
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Slight Chance Light Snow then Sunny",
-                "detailedForecast": "A slight chance of snow before 11am. Sunny, with a high near 34. New snow accumulation of less than half an inch possible.",
-                "Temp": 34,
-                "Wind": "6 to 10",
-                "windDirection": "N",
-                "Rain": 19
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 20.",
-                "Temp": 20,
-                "Wind": "10",
-                "windDirection": "NE",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 46.",
-                "Temp": 46,
-                "Wind": "5 to 8",
-                "windDirection": "ESE",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T18:00:00-07:00",
+                "startTime": "2026-04-24T18:00:00-07:00",
                 "Time of Day": "Friday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 29.",
-                "Temp": 29,
-                "Wind": "5",
-                "windDirection": "SSW",
-                "Rain": 0
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 31.",
+                "Temp": 31,
+                "Wind": "7",
+                "windDirection": "NE",
+                "Rain": 9
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 48.",
-                "Temp": 48,
-                "Wind": "5 to 9",
-                "windDirection": "SSW",
-                "Rain": 12
-            },
-            {
-                "startTime": "2026-04-18T18:00:00-07:00",
-                "Time of Day": "Saturday Night",
                 "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 11pm. Partly cloudy, with a low around 32. New snow accumulation of around one inch possible.",
-                "Temp": 32,
-                "Wind": "9",
-                "windDirection": "SSW",
-                "Rain": 23
+                "detailedForecast": "A slight chance of snow between 11am and 2pm, then a chance of rain. Mostly sunny, with a high near 49.",
+                "Temp": 49,
+                "Wind": "5 to 8",
+                "windDirection": "SSE",
+                "Rain": 28
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
+                "startTime": "2026-04-25T18:00:00-07:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Chance Rain And Snow",
+                "detailedForecast": "A chance of rain before 8pm, then a chance of rain and snow. Partly cloudy, with a low around 33. New snow accumulation of less than half an inch possible.",
+                "Temp": 33,
+                "Wind": "5 to 8",
+                "windDirection": "SW",
+                "Rain": 28
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
                 "Time of Day": "Sunday",
-                "shortForecast": "Chance Snow",
-                "detailedForecast": "A chance of snow. Partly sunny, with a high near 44. New snow accumulation of 2 to 4 inches possible.",
-                "Temp": 44,
-                "Wind": "8 to 12",
-                "windDirection": "SSW",
-                "Rain": 42
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 5pm, then a chance of rain and snow. Mostly sunny, with a high near 45.",
+                "Temp": 45,
+                "Wind": "5 to 8",
+                "windDirection": "W",
+                "Rain": 32
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
             "\ud83e\udde4 Insulated Gloves & Beanie",
-            "\ud83d\udd25 Sleeping Pad with R-value > 4"
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udf92 Pack Rain Cover"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel.",
@@ -622,306 +624,308 @@
         "longitude": -121.182,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Partly cloudy, with a low around 38. North northwest wind around 2 mph.",
-                "Temp": 38,
-                "Wind": "2",
-                "windDirection": "NNW",
-                "Rain": 7
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 41. South southeast wind around 7 mph.",
+                "Temp": 41,
+                "Wind": "7",
+                "windDirection": "SSE",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "Patchy fog before 9am, then a slight chance of rain between 11am and 1pm. Mostly sunny. High near 64, with temperatures falling to around 62 in the afternoon. Northwest wind 2 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%.",
-                "Temp": 64,
-                "Wind": "2 to 12",
-                "windDirection": "NW",
-                "Rain": 17
+                "shortForecast": "Sunny then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4pm. Sunny. High near 74, with temperatures falling to around 71 in the afternoon. South southeast wind 7 to 18 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+                "Temp": 74,
+                "Wind": "7 to 18",
+                "windDirection": "SSE",
+                "Rain": 26
             },
             {
-                "startTime": "2026-04-13T18:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
                 "Time of Day": "Monday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy. Low around 40, with temperatures rising to around 42 overnight. Northwest wind 3 to 10 mph, with gusts as high as 21 mph.",
-                "Temp": 40,
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain before 11pm, then a chance of showers and thunderstorms between 11pm and 2am, then rain. Mostly cloudy, with a low around 49. South southeast wind 6 to 16 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+                "Temp": 49,
+                "Wind": "6 to 16",
+                "windDirection": "SSE",
+                "Rain": 97
+            },
+            {
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain before 11am, then showers and thunderstorms between 11am and 5pm, then a chance of rain. Mostly cloudy, with a high near 63. South southwest wind 6 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
+                "Temp": 63,
+                "Wind": "6 to 12",
+                "windDirection": "SSW",
+                "Rain": 97
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 42. Southwest wind 2 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+                "Temp": 42,
+                "Wind": "2 to 10",
+                "windDirection": "SW",
+                "Rain": 34
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain before 11am. Mostly sunny, with a high near 66. Chance of precipitation is 20%.",
+                "Temp": 66,
+                "Wind": "2 to 10",
+                "windDirection": "W",
+                "Rain": 15
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 41.",
+                "Temp": 41,
                 "Wind": "3 to 10",
                 "windDirection": "NW",
                 "Rain": 1
             },
             {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 68. Northwest wind 3 to 10 mph, with gusts as high as 21 mph.",
-                "Temp": 68,
-                "Wind": "3 to 10",
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 71.",
+                "Temp": 71,
+                "Wind": "3 to 12",
                 "windDirection": "NW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 39. Northwest wind 3 to 10 mph, with gusts as high as 21 mph.",
-                "Temp": 39,
-                "Wind": "3 to 10",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 70.",
-                "Temp": 70,
-                "Wind": "3 to 10",
-                "windDirection": "NW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 42.",
                 "Temp": 42,
-                "Wind": "6 to 10",
+                "Wind": "3 to 12",
                 "windDirection": "NW",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 69.",
-                "Temp": 69,
-                "Wind": "6 to 14",
-                "windDirection": "NW",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 37.",
-                "Temp": 37,
-                "Wind": "5 to 14",
-                "windDirection": "NNW",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-17T06:00:00-07:00",
+                "startTime": "2026-04-24T06:00:00-07:00",
                 "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 74.",
-                "Temp": 74,
-                "Wind": "5 to 9",
-                "windDirection": "NNW",
-                "Rain": 0
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 73.",
+                "Temp": 73,
+                "Wind": "3 to 12",
+                "windDirection": "WNW",
+                "Rain": 1
             },
             {
-                "startTime": "2026-04-17T18:00:00-07:00",
+                "startTime": "2026-04-24T18:00:00-07:00",
                 "Time of Day": "Friday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42.",
-                "Temp": 42,
-                "Wind": "2 to 9",
-                "windDirection": "N",
-                "Rain": 0
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 44.",
+                "Temp": 44,
+                "Wind": "2 to 12",
+                "windDirection": "WNW",
+                "Rain": 3
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 79.",
-                "Temp": 79,
-                "Wind": "2 to 9",
-                "windDirection": "WNW",
-                "Rain": 0
+                "detailedForecast": "Mostly sunny, with a high near 72.",
+                "Temp": 72,
+                "Wind": "2 to 10",
+                "windDirection": "W",
+                "Rain": 7
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
+                "startTime": "2026-04-25T18:00:00-07:00",
                 "Time of Day": "Saturday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45.",
-                "Temp": 45,
-                "Wind": "5 to 9",
-                "windDirection": "NW",
-                "Rain": 5
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 44.",
+                "Temp": 44,
+                "Wind": "3 to 10",
+                "windDirection": "W",
+                "Rain": 9
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
+                "startTime": "2026-04-26T06:00:00-07:00",
                 "Time of Day": "Sunday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 75.",
-                "Temp": 75,
-                "Wind": "5 to 12",
-                "windDirection": "WNW",
-                "Rain": 10
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 70.",
+                "Temp": 70,
+                "Wind": "3 to 12",
+                "windDirection": "WSW",
+                "Rain": 9
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
             "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
+            "\ud83e\udd7e Waterproof Hiking Boots",
             "\ud83e\udde5 Puffy Down Jacket",
             "\u2614 Waterproof Rainfly",
-            "\ud83e\udd7e Waterproof Hiking Boots"
+            "\ud83c\udf92 Pack Rain Cover"
         ],
-        "warnings": []
+        "warnings": [
+            "Heavy rain forecast. Ensure tent footprint is tucked under tent."
+        ]
     },
     "Redwood National Park": {
         "latitude": 41.2132,
         "longitude": -124.0046,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 45. Southeast wind around 2 mph. Chance of precipitation is 20%.",
-                "Temp": 45,
-                "Wind": "2",
-                "windDirection": "SE",
-                "Rain": 19
-            },
-            {
-                "startTime": "2026-04-13T06:00:00-07:00",
-                "Time of Day": "Monday",
-                "shortForecast": "Slight Chance Light Rain then Partly Sunny",
-                "detailedForecast": "A slight chance of rain before 11am. Partly sunny, with a high near 53. Northwest wind 1 to 8 mph. Chance of precipitation is 20%.",
-                "Temp": 53,
-                "Wind": "1 to 8",
-                "windDirection": "NW",
-                "Rain": 19
-            },
-            {
-                "startTime": "2026-04-13T18:00:00-07:00",
-                "Time of Day": "Monday Night",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 41. North northeast wind 0 to 8 mph.",
-                "Temp": 41,
-                "Wind": "0 to 8",
-                "windDirection": "NNE",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Partly Sunny then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 53. West northwest wind 1 to 6 mph. Chance of precipitation is 20%.",
-                "Temp": 53,
-                "Wind": "1 to 6",
-                "windDirection": "WNW",
-                "Rain": 22
-            },
-            {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a low around 45. South wind 2 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.",
-                "Temp": 45,
-                "Wind": "2 to 7",
+                "detailedForecast": "Rain. Cloudy, with a low around 48. Southeast wind around 6 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible.",
+                "Temp": 48,
+                "Wind": "6",
+                "windDirection": "SE",
+                "Rain": 93
+            },
+            {
+                "startTime": "2026-04-20T06:00:00-07:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 55. South wind 5 to 13 mph, with gusts as high as 20 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+                "Temp": 55,
+                "Wind": "5 to 13",
                 "windDirection": "S",
                 "Rain": 96
             },
             {
-                "startTime": "2026-04-15T06:00:00-07:00",
+                "startTime": "2026-04-20T18:00:00-07:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Light Rain then Rain Showers",
+                "detailedForecast": "Rain before 11pm, then rain showers. Mostly cloudy, with a low around 47. Southeast wind around 6 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.",
+                "Temp": 47,
+                "Wind": "6",
+                "windDirection": "SE",
+                "Rain": 87
+            },
+            {
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers before 11am, then showers and thunderstorms. Cloudy, with a high near 56. Southwest wind around 6 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible.",
+                "Temp": 56,
+                "Wind": "6",
+                "windDirection": "SW",
+                "Rain": 87
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Mostly cloudy, with a low around 46. West southwest wind around 3 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.",
+                "Temp": 46,
+                "Wind": "3",
+                "windDirection": "WSW",
+                "Rain": 75
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
                 "Time of Day": "Wednesday",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a high near 51. South southwest wind around 7 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-                "Temp": 51,
-                "Wind": "7",
-                "windDirection": "SSW",
-                "Rain": 97
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
-                "shortForecast": "Light Rain Likely then Partly Cloudy",
-                "detailedForecast": "Rain likely before 11pm. Partly cloudy, with a low around 37. New rainfall amounts less than a tenth of an inch possible.",
-                "Temp": 37,
-                "Wind": "2 to 6",
-                "windDirection": "N",
-                "Rain": 63
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 54.",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers. Partly sunny, with a high near 54. West southwest wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible.",
                 "Temp": 54,
-                "Wind": "3 to 14",
+                "Wind": "5",
+                "windDirection": "WSW",
+                "Rain": 53
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 11pm. Mostly cloudy, with a low around 43.",
+                "Temp": 43,
+                "Wind": "5",
+                "windDirection": "NNW",
+                "Rain": 16
+            },
+            {
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 57.",
+                "Temp": 57,
+                "Wind": "2 to 9",
                 "windDirection": "N",
+                "Rain": 7
+            },
+            {
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 44.",
+                "Temp": 44,
+                "Wind": "5 to 9",
+                "windDirection": "N",
+                "Rain": 4
+            },
+            {
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 65.",
+                "Temp": 65,
+                "Wind": "7",
+                "windDirection": "NNE",
+                "Rain": 5
+            },
+            {
+                "startTime": "2026-04-24T18:00:00-07:00",
+                "Time of Day": "Friday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 47.",
+                "Temp": 47,
+                "Wind": "7",
+                "windDirection": "E",
                 "Rain": 6
             },
             {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 39.",
-                "Temp": 39,
-                "Wind": "6 to 14",
-                "windDirection": "NNE",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60.",
-                "Temp": 60,
-                "Wind": "5 to 8",
-                "windDirection": "N",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T18:00:00-07:00",
-                "Time of Day": "Friday Night",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 44.",
-                "Temp": 44,
-                "Wind": "6",
-                "windDirection": "NE",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
-                "shortForecast": "Partly Sunny then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 60.",
-                "Temp": 60,
-                "Wind": "6",
-                "windDirection": "S",
-                "Rain": 24
+                "shortForecast": "Mostly Sunny then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 5pm. Mostly sunny, with a high near 62.",
+                "Temp": 62,
+                "Wind": "7",
+                "windDirection": "NW",
+                "Rain": 16
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
+                "startTime": "2026-04-25T18:00:00-07:00",
                 "Time of Day": "Saturday Night",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a low around 48.",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain. Partly cloudy, with a low around 48.",
                 "Temp": 48,
-                "Wind": "6",
-                "windDirection": "SSW",
-                "Rain": 47
+                "Wind": "2 to 6",
+                "windDirection": "SE",
+                "Rain": 16
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
+                "startTime": "2026-04-26T06:00:00-07:00",
                 "Time of Day": "Sunday",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain. Partly sunny, with a high near 56.",
-                "Temp": 56,
-                "Wind": "8",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain. Mostly sunny, with a high near 59.",
+                "Temp": 59,
+                "Wind": "3 to 7",
                 "windDirection": "SSW",
-                "Rain": 47
+                "Rain": 17
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
             "\ud83d\udecc 20\u00b0F Rated Sleeping Bag",
+            "\ud83e\udd7e Waterproof Hiking Boots",
             "\ud83e\udde5 Puffy Down Jacket",
             "\u2614 Waterproof Rainfly",
-            "\ud83e\udd7e Waterproof Hiking Boots"
+            "\ud83c\udf92 Pack Rain Cover"
         ],
         "warnings": [
             "Heavy rain forecast. Ensure tent footprint is tucked under tent."
@@ -932,153 +936,153 @@
         "longitude": -118.5658,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow after 5am. Partly cloudy, with a low around 13. Wind chill values as low as 5. North wind around 5 mph. Chance of precipitation is 30%.",
-                "Temp": 13,
-                "Wind": "5",
-                "windDirection": "N",
-                "Rain": 30
-            },
-            {
-                "startTime": "2026-04-13T06:00:00-07:00",
-                "Time of Day": "Monday",
-                "shortForecast": "Chance Light Snow then Snow Showers Likely",
-                "detailedForecast": "A chance of snow before 11am, then snow showers likely and a slight chance of thunderstorms between 11am and 5pm, then a slight chance of snow. Mostly cloudy. High near 23, with temperatures falling to around 20 in the afternoon. Wind chill values as low as 5. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New snow accumulation of 4 to 8 inches possible.",
-                "Temp": 23,
-                "Wind": "5 to 15",
-                "windDirection": "SW",
-                "Rain": 80
-            },
-            {
-                "startTime": "2026-04-13T18:00:00-07:00",
-                "Time of Day": "Monday Night",
-                "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
-                "detailedForecast": "A slight chance of snow before 11pm. Partly cloudy, with a low around 14. Wind chill values as low as 4. North northwest wind 10 to 15 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible.",
-                "Temp": 14,
-                "Wind": "10 to 15",
-                "windDirection": "NNW",
-                "Rain": 47
-            },
-            {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 29. Wind chill values as low as 8. West wind 5 to 15 mph.",
-                "Temp": 29,
-                "Wind": "5 to 15",
-                "windDirection": "W",
-                "Rain": 4
-            },
-            {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 21. West southwest wind 5 to 15 mph.",
-                "Temp": 21,
-                "Wind": "5 to 15",
-                "windDirection": "WSW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 33. Southwest wind 5 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 33,
-                "Wind": "5 to 15",
-                "windDirection": "SW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 22. West northwest wind 10 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 22,
-                "Wind": "10 to 15",
-                "windDirection": "WNW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 29. West northwest wind 10 to 20 mph, with gusts as high as 30 mph.",
-                "Temp": 29,
-                "Wind": "10 to 20",
-                "windDirection": "WNW",
-                "Rain": 6
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 18. North northeast wind 10 to 20 mph, with gusts as high as 30 mph.",
-                "Temp": 18,
-                "Wind": "10 to 20",
-                "windDirection": "NNE",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 34. Southwest wind 10 to 15 mph.",
-                "Temp": 34,
-                "Wind": "10 to 15",
-                "windDirection": "SW",
+                "detailedForecast": "Mostly clear, with a low around 31. Wind chill values as low as 23. East southeast wind around 15 mph.",
+                "Temp": 31,
+                "Wind": "15",
+                "windDirection": "ESE",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-17T18:00:00-07:00",
-                "Time of Day": "Friday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. South wind 10 to 15 mph.",
-                "Temp": 24,
-                "Wind": "10 to 15",
+                "startTime": "2026-04-20T06:00:00-07:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 40. Wind chill values as low as 23. South wind 15 to 20 mph, with gusts as high as 30 mph.",
+                "Temp": 40,
+                "Wind": "15 to 20",
                 "windDirection": "S",
                 "Rain": 0
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
-                "Time of Day": "Saturday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 10 to 15 mph.",
-                "Temp": 37,
+                "startTime": "2026-04-20T18:00:00-07:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 11pm. Mostly clear, with a low around 29. Wind chill values as low as 20. South southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",
+                "Temp": 29,
                 "Wind": "10 to 15",
-                "windDirection": "SW",
-                "Rain": 1
+                "windDirection": "SSE",
+                "Rain": 21
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
-                "Time of Day": "Saturday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 27. North northwest wind 5 to 15 mph.",
-                "Temp": 27,
-                "Wind": "5 to 15",
-                "windDirection": "NNW",
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Slight Chance Light Snow then Snow Showers Likely",
+                "detailedForecast": "A slight chance of snow before 11am, then snow showers likely and a slight chance of thunderstorms. Mostly cloudy, with a high near 32. Wind chill values as low as 6. South southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 5 to 9 inches possible.",
+                "Temp": 32,
+                "Wind": "15 to 25",
+                "windDirection": "SSW",
+                "Rain": 78
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Snow Showers Likely then Chance Light Snow",
+                "detailedForecast": "Snow showers likely and a slight chance of thunderstorms before 11pm, then a chance of snow. Mostly cloudy, with a low around 15. West wind 15 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible.",
+                "Temp": 15,
+                "Wind": "15 to 25",
+                "windDirection": "W",
+                "Rain": 75
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Slight Chance Light Snow then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow before 11am, then a slight chance of snow showers and a slight chance of thunderstorms between 11am and 5pm. Sunny, with a high near 28. West northwest wind 15 to 20 mph, with gusts as high as 25 mph.",
+                "Temp": 28,
+                "Wind": "15 to 20",
+                "windDirection": "WNW",
+                "Rain": 11
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 20. Northwest wind 10 to 20 mph.",
+                "Temp": 20,
+                "Wind": "10 to 20",
+                "windDirection": "NW",
                 "Rain": 2
             },
             {
-                "startTime": "2026-04-19T06:00:00-07:00",
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 34. South southeast wind 10 to 15 mph.",
+                "Temp": 34,
+                "Wind": "10 to 15",
+                "windDirection": "SSE",
+                "Rain": 2
+            },
+            {
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. West northwest wind 10 to 15 mph.",
+                "Temp": 25,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 35. West northwest wind 10 to 15 mph.",
+                "Temp": 35,
+                "Wind": "10 to 15",
+                "windDirection": "WNW",
+                "Rain": 7
+            },
+            {
+                "startTime": "2026-04-24T18:00:00-07:00",
+                "Time of Day": "Friday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 25. West wind 10 to 15 mph.",
+                "Temp": 25,
+                "Wind": "10 to 15",
+                "windDirection": "W",
+                "Rain": 7
+            },
+            {
+                "startTime": "2026-04-25T06:00:00-07:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms after 11am. Partly sunny, with a high near 33. West southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible.",
+                "Temp": 33,
+                "Wind": "10 to 15",
+                "windDirection": "WSW",
+                "Rain": 24
+            },
+            {
+                "startTime": "2026-04-25T18:00:00-07:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Slight Chance Snow Showers then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms before 11pm, then a slight chance of snow between 11pm and 5am. Mostly cloudy, with a low around 24. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible.",
+                "Temp": 24,
+                "Wind": "10 to 15",
+                "windDirection": "W",
+                "Rain": 24
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
                 "Time of Day": "Sunday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 38. Northwest wind 5 to 20 mph.",
-                "Temp": 38,
-                "Wind": "5 to 20",
-                "windDirection": "NW",
-                "Rain": 9
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms between 11am and 5pm, then a slight chance of snow. Partly sunny, with a high near 30. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible.",
+                "Temp": 30,
+                "Wind": "10 to 15",
+                "windDirection": "W",
+                "Rain": 21
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
             "\ud83e\udde4 Insulated Gloves & Beanie",
-            "\ud83d\udd25 Sleeping Pad with R-value > 4"
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udf92 Pack Rain Cover"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel.",
@@ -1090,153 +1094,153 @@
         "longitude": -118.5551,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow after 5am. Partly cloudy, with a low around 10. Wind chill values as low as 3. Northwest wind around 5 mph. Chance of precipitation is 30%.",
-                "Temp": 10,
-                "Wind": "5",
-                "windDirection": "NW",
-                "Rain": 31
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 27. Wind chill values as low as 20. Southwest wind around 10 mph.",
+                "Temp": 27,
+                "Wind": "10",
+                "windDirection": "SW",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-13T06:00:00-07:00",
+                "startTime": "2026-04-20T06:00:00-07:00",
                 "Time of Day": "Monday",
-                "shortForecast": "Chance Light Snow then Snow Showers Likely",
-                "detailedForecast": "A chance of snow before 11am, then snow showers likely and a slight chance of thunderstorms between 11am and 5pm. Mostly cloudy, with a high near 22. Wind chill values as low as 4. West southwest wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of 3 to 7 inches possible.",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 41, with temperatures falling to around 39 in the afternoon. Wind chill values as low as 18. West southwest wind 10 to 15 mph, with gusts as high as 25 mph.",
+                "Temp": 41,
+                "Wind": "10 to 15",
+                "windDirection": "WSW",
+                "Rain": 1
+            },
+            {
+                "startTime": "2026-04-20T18:00:00-07:00",
+                "Time of Day": "Monday Night",
+                "shortForecast": "Mostly Clear then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 5am. Mostly clear, with a low around 26. Wind chill values as low as 13. South southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",
+                "Temp": 26,
+                "Wind": "10 to 15",
+                "windDirection": "SSW",
+                "Rain": 19
+            },
+            {
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Slight Chance Light Snow then Snow Showers Likely",
+                "detailedForecast": "A slight chance of snow before 11am, then snow showers likely and a slight chance of thunderstorms. Partly sunny, with a high near 33. Wind chill values as low as 7. Southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 4 to 8 inches possible.",
+                "Temp": 33,
+                "Wind": "15 to 25",
+                "windDirection": "SW",
+                "Rain": 76
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Snow Showers Likely then Chance Light Snow",
+                "detailedForecast": "Snow showers likely and a slight chance of thunderstorms before 11pm, then a chance of snow. Mostly cloudy, with a low around 13. West southwest wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 80%. New snow accumulation of 3 to 5 inches possible.",
+                "Temp": 13,
+                "Wind": "15 to 25",
+                "windDirection": "WSW",
+                "Rain": 76
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Slight Chance Light Snow then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow before 11am, then a slight chance of snow showers and a slight chance of thunderstorms between 11am and 5pm. Sunny, with a high near 29. West southwest wind around 15 mph, with gusts as high as 25 mph.",
+                "Temp": 29,
+                "Wind": "15",
+                "windDirection": "WSW",
+                "Rain": 12
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 17. West southwest wind 5 to 15 mph.",
+                "Temp": 17,
+                "Wind": "5 to 15",
+                "windDirection": "WSW",
+                "Rain": 3
+            },
+            {
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 35. West southwest wind 5 to 10 mph, with gusts as high as 20 mph.",
+                "Temp": 35,
+                "Wind": "5 to 10",
+                "windDirection": "WSW",
+                "Rain": 3
+            },
+            {
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 22. West wind 5 to 10 mph.",
                 "Temp": 22,
                 "Wind": "5 to 10",
-                "windDirection": "WSW",
-                "Rain": 72
-            },
-            {
-                "startTime": "2026-04-13T18:00:00-07:00",
-                "Time of Day": "Monday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 12. Wind chill values as low as 3. Northwest wind 5 to 10 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 3 inches possible.",
-                "Temp": 12,
-                "Wind": "5 to 10",
-                "windDirection": "NW",
-                "Rain": 49
-            },
-            {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 31. Wind chill values as low as 4. West wind 5 to 10 mph.",
-                "Temp": 31,
-                "Wind": "5 to 10",
                 "windDirection": "W",
                 "Rain": 2
             },
             {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 20. West southwest wind 5 to 10 mph.",
-                "Temp": 20,
-                "Wind": "5 to 10",
-                "windDirection": "WSW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 35. West southwest wind 5 to 15 mph.",
-                "Temp": 35,
-                "Wind": "5 to 15",
-                "windDirection": "WSW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 21. West wind 10 to 15 mph.",
-                "Temp": 21,
-                "Wind": "10 to 15",
-                "windDirection": "W",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 30. West southwest wind 10 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 30,
-                "Wind": "10 to 15",
-                "windDirection": "WSW",
-                "Rain": 5
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. West northwest wind 10 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 15,
-                "Wind": "10 to 15",
-                "windDirection": "WNW",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
+                "startTime": "2026-04-24T06:00:00-07:00",
                 "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 34. West southwest wind 5 to 10 mph.",
-                "Temp": 34,
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 36. West wind 5 to 10 mph, with gusts as high as 20 mph.",
+                "Temp": 36,
                 "Wind": "5 to 10",
-                "windDirection": "WSW",
-                "Rain": 0
+                "windDirection": "W",
+                "Rain": 7
             },
             {
-                "startTime": "2026-04-17T18:00:00-07:00",
+                "startTime": "2026-04-24T18:00:00-07:00",
                 "Time of Day": "Friday Night",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 21. Southwest wind around 5 mph.",
-                "Temp": 21,
-                "Wind": "5",
-                "windDirection": "SW",
-                "Rain": 0
+                "detailedForecast": "Partly cloudy, with a low around 22. West wind 5 to 10 mph.",
+                "Temp": 22,
+                "Wind": "5 to 10",
+                "windDirection": "W",
+                "Rain": 7
             },
             {
-                "startTime": "2026-04-18T06:00:00-07:00",
+                "startTime": "2026-04-25T06:00:00-07:00",
                 "Time of Day": "Saturday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind 5 to 10 mph.",
-                "Temp": 37,
-                "Wind": "5 to 10",
-                "windDirection": "SW",
-                "Rain": 1
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms after 11am. Mostly sunny, with a high near 34. West southwest wind 5 to 15 mph. Chance of precipitation is 20%. New snow accumulation of less than half an inch possible.",
+                "Temp": 34,
+                "Wind": "5 to 15",
+                "windDirection": "WSW",
+                "Rain": 23
             },
             {
-                "startTime": "2026-04-18T18:00:00-07:00",
+                "startTime": "2026-04-25T18:00:00-07:00",
                 "Time of Day": "Saturday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. West northwest wind 5 to 10 mph.",
-                "Temp": 24,
-                "Wind": "5 to 10",
-                "windDirection": "WNW",
-                "Rain": 2
-            },
-            {
-                "startTime": "2026-04-19T06:00:00-07:00",
-                "Time of Day": "Sunday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 39. West wind 5 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 39,
+                "shortForecast": "Slight Chance Snow Showers then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms before 11pm, then a slight chance of snow between 11pm and 5am. Mostly cloudy, with a low around 23. West wind 5 to 15 mph. Chance of precipitation is 20%.",
+                "Temp": 23,
                 "Wind": "5 to 15",
                 "windDirection": "W",
-                "Rain": 8
+                "Rain": 23
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers and a slight chance of thunderstorms between 11am and 5pm, then a slight chance of snow. Partly sunny, with a high near 31. West wind 5 to 15 mph. Chance of precipitation is 20%.",
+                "Temp": 31,
+                "Wind": "5 to 15",
+                "windDirection": "W",
+                "Rain": 19
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
             "\ud83e\udde4 Insulated Gloves & Beanie",
-            "\ud83d\udd25 Sleeping Pad with R-value > 4"
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udf92 Pack Rain Cover"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel.",
@@ -1248,153 +1252,153 @@
         "longitude": -119.5383,
         "forecast": [
             {
-                "startTime": "2026-04-13T03:00:00-07:00",
+                "startTime": "2026-04-20T03:00:00-07:00",
                 "Time of Day": "Overnight",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Partly cloudy, with a low around 18. Wind chill values as low as 19. South southeast wind around 0 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
-                "Temp": 18,
-                "Wind": "0",
-                "windDirection": "",
-                "Rain": 28
-            },
-            {
-                "startTime": "2026-04-13T06:00:00-07:00",
-                "Time of Day": "Monday",
-                "shortForecast": "Slight Chance Light Snow then Snow Showers Likely",
-                "detailedForecast": "A slight chance of snow before 11am, then snow showers likely and a slight chance of thunderstorms between 11am and 5pm. Partly sunny. High near 30, with temperatures falling to around 28 in the afternoon. Wind chill values as low as 18. North northwest wind 0 to 5 mph. Chance of precipitation is 60%. New snow accumulation of 1 to 2 inches possible.",
-                "Temp": 30,
-                "Wind": "0 to 5",
-                "windDirection": "NNW",
-                "Rain": 62
-            },
-            {
-                "startTime": "2026-04-13T18:00:00-07:00",
-                "Time of Day": "Monday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 15. Wind chill values as low as 8. Northeast wind around 5 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible.",
-                "Temp": 15,
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 5am. Mostly clear, with a low around 32. Wind chill values as low as 26. South southeast wind around 5 mph.",
+                "Temp": 32,
                 "Wind": "5",
-                "windDirection": "NE",
-                "Rain": 28
+                "windDirection": "SSE",
+                "Rain": 0
             },
             {
-                "startTime": "2026-04-14T06:00:00-07:00",
-                "Time of Day": "Tuesday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 36. Wind chill values as low as 10. South southwest wind 0 to 5 mph.",
-                "Temp": 36,
-                "Wind": "0 to 5",
-                "windDirection": "SSW",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-14T18:00:00-07:00",
-                "Time of Day": "Tuesday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 21. South wind 0 to 5 mph.",
-                "Temp": 21,
-                "Wind": "0 to 5",
+                "startTime": "2026-04-20T06:00:00-07:00",
+                "Time of Day": "Monday",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow. Sunny. High near 47, with temperatures falling to around 44 in the afternoon. Wind chill values as low as 25. South wind 10 to 20 mph, with gusts as high as 40 mph.",
+                "Temp": 47,
+                "Wind": "10 to 20",
                 "windDirection": "S",
-                "Rain": 1
-            },
-            {
-                "startTime": "2026-04-15T06:00:00-07:00",
-                "Time of Day": "Wednesday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 38. South southwest wind 0 to 10 mph, with gusts as high as 20 mph.",
-                "Temp": 38,
-                "Wind": "0 to 10",
-                "windDirection": "SSW",
                 "Rain": 9
             },
             {
-                "startTime": "2026-04-15T18:00:00-07:00",
-                "Time of Day": "Wednesday Night",
+                "startTime": "2026-04-20T18:00:00-07:00",
+                "Time of Day": "Monday Night",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow after 11pm. Mostly cloudy, with a low around 24. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
-                "Temp": 24,
-                "Wind": "5 to 10",
+                "detailedForecast": "A chance of snow. Partly cloudy. Low around 29, with temperatures rising to around 31 overnight. Wind chill values as low as 21. South wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 70%. New snow accumulation of 2 to 4 inches possible.",
+                "Temp": 29,
+                "Wind": "10 to 15",
+                "windDirection": "S",
+                "Rain": 71
+            },
+            {
+                "startTime": "2026-04-21T06:00:00-07:00",
+                "Time of Day": "Tuesday",
+                "shortForecast": "Chance Light Snow then Snow Showers",
+                "detailedForecast": "A chance of snow before 11am, then snow showers and a chance of thunderstorms. Cloudy, with a high near 34. Wind chill values as low as 16. South southwest wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New snow accumulation of 13 to 19 inches possible.",
+                "Temp": 34,
+                "Wind": "15 to 20",
+                "windDirection": "SSW",
+                "Rain": 96
+            },
+            {
+                "startTime": "2026-04-21T18:00:00-07:00",
+                "Time of Day": "Tuesday Night",
+                "shortForecast": "Snow Showers",
+                "detailedForecast": "Snow showers and a chance of thunderstorms before 5am, then snow likely. Mostly cloudy, with a low around 19. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New snow accumulation of 10 to 14 inches possible.",
+                "Temp": 19,
+                "Wind": "5 to 15",
                 "windDirection": "SW",
+                "Rain": 96
+            },
+            {
+                "startTime": "2026-04-22T06:00:00-07:00",
+                "Time of Day": "Wednesday",
+                "shortForecast": "Snow Likely then Chance Snow Showers",
+                "detailedForecast": "Snow likely before 11am, then a chance of snow showers and a slight chance of thunderstorms between 11am and 5pm. Partly sunny, with a high near 33. West southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible.",
+                "Temp": 33,
+                "Wind": "5 to 10",
+                "windDirection": "WSW",
+                "Rain": 42
+            },
+            {
+                "startTime": "2026-04-22T18:00:00-07:00",
+                "Time of Day": "Wednesday Night",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 18. East southeast wind 5 to 10 mph, with gusts as high as 20 mph.",
+                "Temp": 18,
+                "Wind": "5 to 10",
+                "windDirection": "ESE",
+                "Rain": 9
+            },
+            {
+                "startTime": "2026-04-23T06:00:00-07:00",
+                "Time of Day": "Thursday",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 40. South southwest wind around 5 mph, with gusts as high as 20 mph.",
+                "Temp": 40,
+                "Wind": "5",
+                "windDirection": "SSW",
+                "Rain": 4
+            },
+            {
+                "startTime": "2026-04-23T18:00:00-07:00",
+                "Time of Day": "Thursday Night",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 23. North wind 5 to 10 mph, with gusts as high as 20 mph.",
+                "Temp": 23,
+                "Wind": "5 to 10",
+                "windDirection": "N",
+                "Rain": 4
+            },
+            {
+                "startTime": "2026-04-24T06:00:00-07:00",
+                "Time of Day": "Friday",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 11am. Mostly sunny, with a high near 42. North northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",
+                "Temp": 42,
+                "Wind": "5 to 10",
+                "windDirection": "NNW",
+                "Rain": 15
+            },
+            {
+                "startTime": "2026-04-24T18:00:00-07:00",
+                "Time of Day": "Friday Night",
+                "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
+                "detailedForecast": "A slight chance of snow before 11pm. Partly cloudy, with a low around 26. Northeast wind around 5 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",
+                "Temp": 26,
+                "Wind": "5",
+                "windDirection": "NE",
+                "Rain": 15
+            },
+            {
+                "startTime": "2026-04-25T06:00:00-07:00",
+                "Time of Day": "Saturday",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers and a slight chance of thunderstorms after 11am. Partly sunny, with a high near 41. South southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
+                "Temp": 41,
+                "Wind": "5 to 10",
+                "windDirection": "SSW",
                 "Rain": 29
             },
             {
-                "startTime": "2026-04-16T06:00:00-07:00",
-                "Time of Day": "Thursday",
-                "shortForecast": "Chance Light Snow then Slight Chance Snow Showers",
-                "detailedForecast": "A chance of snow before 11am, then a slight chance of snow showers and a slight chance of thunderstorms between 11am and 5pm. Mostly sunny, with a high near 34. West southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
-                "Temp": 34,
+                "startTime": "2026-04-25T18:00:00-07:00",
+                "Time of Day": "Saturday Night",
+                "shortForecast": "Chance Snow Showers then Slight Chance Light Snow",
+                "detailedForecast": "A chance of snow showers and a slight chance of thunderstorms before 11pm, then a slight chance of snow. Mostly cloudy, with a low around 26. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
+                "Temp": 26,
+                "Wind": "5 to 10",
+                "windDirection": "W",
+                "Rain": 29
+            },
+            {
+                "startTime": "2026-04-26T06:00:00-07:00",
+                "Time of Day": "Sunday",
+                "shortForecast": "Slight Chance Light Snow then Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow before 11am, then a chance of snow showers and a slight chance of thunderstorms between 11am and 5pm, then a slight chance of snow. Partly sunny, with a high near 39. West southwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible.",
+                "Temp": 39,
                 "Wind": "5 to 10",
                 "windDirection": "WSW",
                 "Rain": 29
-            },
-            {
-                "startTime": "2026-04-16T18:00:00-07:00",
-                "Time of Day": "Thursday Night",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 16. North northeast wind 10 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 16,
-                "Wind": "10 to 15",
-                "windDirection": "NNE",
-                "Rain": 7
-            },
-            {
-                "startTime": "2026-04-17T06:00:00-07:00",
-                "Time of Day": "Friday",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 41. Southwest wind 5 to 15 mph, with gusts as high as 25 mph.",
-                "Temp": 41,
-                "Wind": "5 to 15",
-                "windDirection": "SW",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-17T18:00:00-07:00",
-                "Time of Day": "Friday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. South wind around 5 mph.",
-                "Temp": 24,
-                "Wind": "5",
-                "windDirection": "S",
-                "Rain": 0
-            },
-            {
-                "startTime": "2026-04-18T06:00:00-07:00",
-                "Time of Day": "Saturday",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 44. South southwest wind 5 to 10 mph, with gusts as high as 20 mph.",
-                "Temp": 44,
-                "Wind": "5 to 10",
-                "windDirection": "SSW",
-                "Rain": 3
-            },
-            {
-                "startTime": "2026-04-18T18:00:00-07:00",
-                "Time of Day": "Saturday Night",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 27. Southeast wind 5 to 10 mph, with gusts as high as 20 mph.",
-                "Temp": 27,
-                "Wind": "5 to 10",
-                "windDirection": "SE",
-                "Rain": 7
-            },
-            {
-                "startTime": "2026-04-19T06:00:00-07:00",
-                "Time of Day": "Sunday",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow between 11am and 5pm, then a slight chance of snow showers and a slight chance of thunderstorms. Mostly sunny, with a high near 44. South southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible.",
-                "Temp": 44,
-                "Wind": "5 to 15",
-                "windDirection": "SSW",
-                "Rain": 24
             }
         ],
         "recommended_gear": [
-            "\ud83c\udf92 Pack Rain Cover",
-            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
-            "\u2614 Waterproof Rainfly",
             "\ud83e\udd7e Waterproof Hiking Boots",
+            "\ud83d\udd25 Sleeping Pad with R-value > 4",
+            "\u2744\ufe0f 0\u00b0F Rated Sleeping Bag",
             "\ud83e\udde4 Insulated Gloves & Beanie",
-            "\ud83d\udd25 Sleeping Pad with R-value > 4"
+            "\u2614 Waterproof Rainfly",
+            "\ud83c\udf92 Pack Rain Cover"
         ],
         "warnings": [
             "Freezing conditions expected! Bring extra fuel.",
